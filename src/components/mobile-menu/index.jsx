@@ -31,7 +31,7 @@ const MobileMenu = ({ open = false }) => {
             </div>
           </NavItem>
 
-          <NavItem text='Features'>
+          <NavItem text='Company'>
             <div className='flex-col space-y-5 p-2'>
               {COMPANY.map((el) => {
                 return (

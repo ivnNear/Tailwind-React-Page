@@ -31,7 +31,7 @@ const Header = () => {
       </nav>
       
       <div className="hidden xl:flex ml-auto space-x-5">
-        <Button >Loggin</Button>
+        <Button >Login</Button>
         <Button hasBorder={true} >Register</Button>
         
       </div>
